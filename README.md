@@ -40,7 +40,7 @@
 | Data Analysis | Pandas, NumPy, Excel |
 | Visualization | Power BI, Tableau, Matplotlib, Seaborn |
 | Machine Learning | Scikit-learn, Ultralytics YOLO |
-| Other | OpenCV, Git, GitHub |
+| Other | Git, GitHub |
 
 ---
 
