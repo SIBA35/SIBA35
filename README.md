@@ -48,7 +48,7 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🎯 [Real-Time Object Detection](https://github.com/SIBA35/yolo-object-detection) | Detects objects via webcam using YOLOv11 & OpenCV | Python, YOLO, OpenCV |
+| 🎯 [Real-Time Object Detection](https://github.com/SIBA35/Project1) | Detects objects via webcam using YOLOv11 & OpenCV | Python, YOLO, OpenCV |
 | 📈 Salary Predictor | ML model to predict salaries based on experience & skills | Python, Scikit-learn |
 | 🏅 Sports Analytics | Data analysis and visualization of sports performance data | Python, Pandas, Tableau |
 | 🔄 Churn Prediction | Predicts customer churn using classification models | Python, Scikit-learn |
