@@ -53,7 +53,7 @@
 | 🏅 Sports Analytics | Data analysis and visualization of sports performance data | Python, Pandas, Tableau |
 | 🔄 Churn Prediction | Predicts customer churn using classification models | Python, Scikit-learn |
 | 🍽️ Zomato/Swiggy Ratings Analysis | EDA on food delivery ratings to uncover trends and insights | Python, Pandas, Matplotlib |
-| 📊 Sales Dashboard | Interactive Power BI dashboard to monitor sales KPIs, trends, and performance | Power BI, Excel |
+| 📊 [Sales Analysis Dashboard](https://github.com/SIBA35/Sales-Analysis-Dashboard) | Interactive Power BI dashboard to monitor sales KPIs, trends, and performance | Power BI, Excel |
 
 > 🚧 Some projects are currently under development — stay tuned!
 
