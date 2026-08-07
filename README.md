@@ -49,9 +49,9 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | 🎯 [Real-Time Object Detection](https://github.com/SIBA35/Project1) | Detects objects via webcam using YOLOv11 & OpenCV | Python, YOLO, OpenCV |
-| 📈 [Blinkit Performance Analysis](https://github.com/SIBA35/Blinkit-Dashboard) | Data Cleaning, Analysis and visualization of Blinkit 2023-24 data | Python, Jupyter, PowerBI | |
+| 🛒  [Blinkit Performance Analysis](https://github.com/SIBA35/Blinkit-Dashboard) | Data Cleaning, Analysis and visualization of Blinkit 2023-24 data | Python, Jupyter, PowerBI | 
+| 🌤️ [Weather Forecast Dashboard](https://github.com/SIBA35/Weather-Dashboard) | Dashboard for visualizing three days current weather forecast using weather api | PowerBI |
 | 🏅 Sports Analytics | Data analysis and visualization of sports performance data | Python, Pandas, Tableau |
-| 🔄 Churn Prediction | Predicts customer churn using classification models | Python, Scikit-learn |
 | 🍽️ Zomato/Swiggy Ratings Analysis | EDA on food delivery ratings to uncover trends and insights | Python, Pandas, Matplotlib |
 | 📊 [Sales Analysis Dashboard](https://github.com/SIBA35/Sales-Analysis-Dashboard) | Interactive Power BI dashboard to monitor sales KPIs, trends, and performance | Power BI, Excel |
 
