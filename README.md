@@ -49,7 +49,7 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | 🎯 [Real-Time Object Detection](https://github.com/SIBA35/Project1) | Detects objects via webcam using YOLOv11 & OpenCV | Python, YOLO, OpenCV |
-| 📈 Salary Predictor | ML model to predict salaries based on experience & skills | Python, Scikit-learn |
+| 📈 [Blinkit Performance Analysis](https://github.com/SIBA35/Blinkit-Dashboard) | Data Cleaning, Analysis and visualization of Blinkit 2023-24 data | Python, Jupyter, PowerBI | |
 | 🏅 Sports Analytics | Data analysis and visualization of sports performance data | Python, Pandas, Tableau |
 | 🔄 Churn Prediction | Predicts customer churn using classification models | Python, Scikit-learn |
 | 🍽️ Zomato/Swiggy Ratings Analysis | EDA on food delivery ratings to uncover trends and insights | Python, Pandas, Matplotlib |
