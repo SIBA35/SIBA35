@@ -17,9 +17,9 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 3rd Year B.Tech student in **Computer Science & Engineering** with a specialization in **Data Analytics & Machine Learning**
+- 🎓 Final Year B.Tech student in **Computer Science & Engineering** with a specialization in **Data Analytics & Data Visualization**
 - 💡 Passionate about turning raw data into meaningful insights
-- 🛠️ Currently building projects in **Data Science**, **ML**, and **Computer Vision**
+- 🛠️ Currently building projects in **Data Science**, **ML**, and **Data Analytics**
 - 📬 Reach me at **sibanayak109@gmail.com**
 
 ---
